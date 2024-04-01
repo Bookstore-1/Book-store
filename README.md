@@ -43,7 +43,7 @@ The Book Store App was built using the following technologies:
 
 To run the Book Store App locally, follow these steps:
 
-1. Clone the repository:https://github.com/Bookstore-1/Bookstore/tree/master
+1. Clone the repository:https://github.com/Bookstore-1/Book-store/tree/master
 2. Install the node modules using the coomand 'npm i'.
 3. Set the environment variables in .env file.
 

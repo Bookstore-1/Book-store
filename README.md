@@ -1,8 +1,6 @@
  # Book Store App
 
-## Deployment
 
-The Book Store App is currently deployed on Vercel. You can access the live version of the app by following this link: <a href="https://bookapp-zeta.vercel.app/">Book Store App on Vercel</a>.
 
 ## Features
 
